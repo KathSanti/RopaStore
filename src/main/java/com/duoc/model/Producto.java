@@ -6,7 +6,7 @@ import lombok.Data;
 
 
 @Data //getters y setter desde lombok
-@AllArgsConstructor //constructor con para poder inyectar los datos de repository 
+@AllArgsConstructor //constructor con parametros para inyectar datos a repository
 public class Producto {
 
     private Long id;
