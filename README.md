@@ -1,7 +1,13 @@
-#Ejecutar:
 
-./mvnw clean spring-boot:run
+## Lanzar app 
 
-Hacer solicitud get a 
+Ejecutar comando desde la terminal 
+```
+./mvnw spring-boot:run
+```
 
-http://localhost:8080/productos
+## Api para consumir por cliente 
+ 
+```
+http://localhost:8080/api/productos/catalogo
+```
