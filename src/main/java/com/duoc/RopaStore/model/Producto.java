@@ -1,4 +1,4 @@
-package com.duoc.model;
+package com.duoc.RopaStore.model;
 
 
 import lombok.AllArgsConstructor;

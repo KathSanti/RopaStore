@@ -1,4 +1,4 @@
-package com.duoc.service;
+package com.duoc.RopaStore.service;
 
 import java.util.Comparator;
 import java.util.List;
@@ -6,8 +6,8 @@ import java.util.stream.Collectors;
 
 import org.springframework.stereotype.Service;
 
-import com.duoc.model.Producto;
-import com.duoc.repository.ProductoRepository;
+import com.duoc.RopaStore.model.Producto;
+import com.duoc.RopaStore.repository.ProductoRepository;
 
 import lombok.RequiredArgsConstructor;
 

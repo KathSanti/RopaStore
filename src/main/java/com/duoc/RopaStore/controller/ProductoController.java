@@ -1,4 +1,4 @@
-package com.duoc.controller;
+package com.duoc.RopaStore.controller;
 
 import java.util.List;
 
@@ -7,8 +7,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.duoc.model.Producto;
-import com.duoc.service.ProductoService;
+import com.duoc.RopaStore.model.Producto;
+import com.duoc.RopaStore.service.ProductoService;
 
 import lombok.RequiredArgsConstructor;
 

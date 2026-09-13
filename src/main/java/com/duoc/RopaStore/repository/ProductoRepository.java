@@ -1,11 +1,13 @@
-package com.duoc.repository;
+package com.duoc.RopaStore.repository;
+
 
 import java.util.ArrayList;
 import java.util.List;
 
 import org.springframework.stereotype.Repository;
 
-import com.duoc.model.Producto;
+import com.duoc.RopaStore.model.Producto;
+
 
 @Repository
 public class ProductoRepository {
