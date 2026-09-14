@@ -11,8 +11,8 @@
 	<groupId>com.duoc</groupId>
 	<artifactId>RopaStore</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name/>
-	<description/>
+	<name>RopaStore</name>
+	<description>Proyecto de Gestion de Tienda de Ropa</description>
 	<url/>
 	<licenses>
 		<license/>
