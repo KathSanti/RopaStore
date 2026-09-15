@@ -6,9 +6,7 @@ Ejecutar comando desde la terminal
 ./mvnw spring-boot:run
 ```
 
-## Api para consumir por cliente 
-
-# Catalo de productos
+## Api Catalogo para consumir por cliente 
  
 ```
 http://localhost:8080/api/productos/catalogo
